@@ -1,0 +1,1 @@
+electron-packager . "Baseline" --icon .\graphics\icon.ico --all
